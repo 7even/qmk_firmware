@@ -6,3 +6,9 @@
 * symbols layer, mostly default
 * mouse & media control layer
 * gaming layer (no dual-function keys, dedicated arrow keys cluster)
+
+## Building
+
+``` sh
+$ make ergodox_ez:7even
+```
